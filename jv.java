@@ -1,7 +1,7 @@
 
 public class Task implements TaskIF {
 	private String[][] zweiD;
-	
+	//was ist das denn für nh scheiße?
 	public Task(String[][] s) {
 		zweiD=s;
 	}
